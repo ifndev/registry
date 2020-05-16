@@ -456,5 +456,11 @@
             "method": "git",
             "vpm": "Delta456.is_thirteen"
         }
+        {
+            "name": "flogs",
+            "url": "https://github.com/ifndev/v-fancy-logs",
+            "method": "git",
+            "vpm": "ifndev.flogs"
+        }
     ]
 }
